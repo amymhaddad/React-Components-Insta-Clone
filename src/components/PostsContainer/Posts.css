@@ -54,3 +54,12 @@
   margin: 15px 0px;
   font-size: 16px;
 }
+
+.like-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  right: 50px;
+  bottom: -10px;
+}
+
